@@ -1,0 +1,37 @@
+{
+    "PHIL 054 PO-01": {
+        "courseCode": "PHIL 054 PO-01",
+        "courseName": "Existentialism",
+        "courseEnrollmentStatus": "closed",
+        "courseSeatsFilled": 17,
+        "courseSeatsTotal": 22
+    },
+    "PHIL 185B PO-01": {
+        "courseCode": "PHIL 185B PO-01",
+        "courseName": "Topics in the Philosophy of Law - Privacy",
+        "courseEnrollmentStatus": "closed",
+        "courseSeatsFilled": 15,
+        "courseSeatsTotal": 15
+    },
+    "PHIL 151 SC-01": {
+        "courseCode": "PHIL 151 SC-01",
+        "courseName": "Feminist Ethics",
+        "courseEnrollmentStatus": "reopened",
+        "courseSeatsFilled": 15,
+        "courseSeatsTotal": 18
+    },
+    "FREN 174 PO-01": {
+        "courseCode": "FREN 174 PO-01",
+        "courseName": "Adultery in the Novel",
+        "courseEnrollmentStatus": "closed",
+        "courseSeatsFilled": 15,
+        "courseSeatsTotal": 15
+    },
+    "ASAM 125 AA-01": {
+        "courseCode": "ASAM 125 AA-01",
+        "courseName": "Intro Asian Amer Hist:1850-Pres",
+        "courseEnrollmentStatus": "open",
+        "courseSeatsFilled": 23,
+        "courseSeatsTotal": 24
+    }
+}
