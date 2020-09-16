@@ -6,8 +6,8 @@ reopened.
 
 It scrapes data from hyperschedule.io and tracks the courses listed in a file
 called `watch_list.txt`. You write courses in the format `DEPT NUM
-SCHOOL-SECTION` where `DEPT` is the department code (e.g. `CSCI` for COmputer
-SCience), `NUM` is the 3- or 4-digit course code (e.g. `054` for Discrete), `SCHOOL`
+SCHOOL-SECTION` where `DEPT` is the department code (e.g. `CSCI` for Computer
+SCIence), `NUM` is the 3- or 4-digit course code (e.g. `054` for Discrete), `SCHOOL`
 is the two-letter code corresponding to school (`PO`, `CM`, `HM`, `SC`, `PZ`; or `JT`, `AA`,
 etc for joint programs), and `SECTION` is the two-digit section number (`01`, `02`,
 etc).
